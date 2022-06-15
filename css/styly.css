@@ -14,6 +14,9 @@ main{
   font-family: 'Times New Roman', Times, serif;
   font-size: 350%;
 }
+.onas{
+float: left;
+}
 .bodytest{
   background-image: url(../img/heroheader.png);
 }
